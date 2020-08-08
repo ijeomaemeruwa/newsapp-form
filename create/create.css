@@ -42,7 +42,7 @@ body {
     margin: auto;
 }
 
-.input-form {
+.form-input {
     display: flex;
     flex-direction: column;
 }
