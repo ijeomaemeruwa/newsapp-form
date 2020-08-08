@@ -63,6 +63,13 @@ input {
 input:focus {
     border-bottom: 2px solid var(--secondary-color);
 }
+.form-input.error {
+    border-bottom: 2px solid #c7141a;
+}
+
+.form-input.success {
+    border-bottom: 2px solid var(--secondary-color);
+}
 
 .btn-1 {
     outline: none;
