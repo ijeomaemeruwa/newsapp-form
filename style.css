@@ -69,6 +69,10 @@ input:focus {
     font-size: 1.2rem;
 }
 
+.btn-1:hover {
+    background: #a8d0da;
+}
+
 .links-one {
     display: flex;
     flex-direction: row;
